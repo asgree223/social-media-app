@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "username": "sara_dev",
+    "avatar": "S",
+    "content": "Just finished building my first React app! The key is to think of useEffect as 'run this code AFTER the component appears on screen'. Game changer!",
+    "likes": [
+      "ali_codes",
+      "asgaee"
+    ],
+    "createdAt": "2026-05-21T08:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "username": "ali_codes",
+    "avatar": "A",
+    "content": "Hot take: CSS Grid is easier than Flexbox once you actually learn it. Flexbox = one direction. Grid = two directions. Use both together and you can build any layout.",
+    "likes": [
+      "sara_dev",
+      "hassan_js",
+      "asgaee"
+    ],
+    "createdAt": "2026-05-21T09:15:00.000Z"
+  },
+  {
+    "id": 3,
+    "username": "asgaree_js",
+    "avatar": "A",
+    "content": "Reminder: you don't need to know everything to start building. I built my first project knowing only HTML and CSS.",
+    "likes": [
+      "asgaee",
+      "ladli",
+      "anum"
+    ],
+    "createdAt": "2026-05-21T10:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "username": "anum_js",
+    "avatar": "A",
+    "content": "Reminder: you don't need to know everything to start building. I built my first project knowing only HTML and CSS.",
+    "likes": [
+      "asgaee"
+    ],
+    "createdAt": "2026-05-21T10:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "username": "mahim_js",
+    "avatar": "M",
+    "content": "Reminder: you don't need to know everything to start building. I built my first project knowing only HTML and CSS.",
+    "likes": [
+      "asgaee"
+    ],
+    "createdAt": "2026-05-21T10:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "username": "anum",
+    "avatar": "A",
+    "content": "hello gus",
+    "likes": [],
+    "createdAt": "2026-06-09T05:39:58.205Z"
+  }
+]
