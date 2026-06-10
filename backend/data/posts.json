@@ -59,7 +59,9 @@
     "username": "anum",
     "avatar": "A",
     "content": "hello gus",
-    "likes": [],
+    "likes": [
+      "anum"
+    ],
     "createdAt": "2026-06-09T05:39:58.205Z"
   }
 ]
